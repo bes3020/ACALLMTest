@@ -1,0 +1,30 @@
+# Environment files
+.env
+.env.local
+
+# Azure
+*.azurePubxml
+PublishProfiles/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build outputs
+bin/
+obj/
+dist/
+
+# Secrets
+secrets/
+*.key
+*.pem
